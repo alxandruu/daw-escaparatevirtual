@@ -1,0 +1,85 @@
+
+
+#pr-descuento {
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+#prc-descuento {
+    color: red;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.link-custom {
+    color: #000;
+    text-decoration: none;
+    font-weight: 665;
+}
+
+.link-custom-3 {
+    color: red;
+    text-decoration: none;
+    font-weight: 665;
+}
+
+.link-custom-3:hover {
+    color: red;
+    border-bottom: 1px dotted red;
+}
+
+.link-custom-2 {
+    color: white;
+    text-decoration: none;
+    font-weight: 665;
+}
+
+.link-custom-2:hover {
+    color: lightgray;
+    border-bottom: 1px dotted lightgray;
+}
+
+.link-custom-2+.link-custom-2 {
+    margin-left: 1rem;
+}
+
+.link-custom:hover {
+    color: grey;
+    border-bottom: 1px dotted grey;
+}
+
+#cookie {
+    display: none;
+    background-color: white;
+    color: #000;
+    border-top: 2px solid black;
+}
+
+#cookie a {
+    text-decoration: none;
+}
+
+.card-body-custom * {
+    margin-top: 3rem;
+}
+
+
+.img-cat{
+    height: auto;
+    width: auto;
+    transition: all 1s ease;
+}
+.img-cat:hover{
+    transform: scale(1.2);
+    transition: all 1s ease;
+}
+
+
+@keyframes microphoneListening {
+    25% {
+        background-color: red;
+    }
+    75% {
+        background-color: #f3bd01;
+    }
+}

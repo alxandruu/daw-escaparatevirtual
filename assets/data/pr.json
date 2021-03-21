@@ -1,0 +1,70 @@
+[{
+        "id": 1,
+        "title": "Zapatillas Minato Edición Limitada",
+        "desc": "Nuevas Zapatillas Minato",
+        "precio": 120,
+        "img": "m_zapatillas.jpg",
+        "info": "novedad"
+    }, {
+        "id": 2,
+        "title": "Ropa Marron Minato",
+        "desc": "Ropa de Color Marron",
+        "precio": 25.99,
+        "img": "m_ropamarron.jpg",
+        "info": "novedad"
+    },
+    {
+        "id": 3,
+        "title": "Ropa Colorida Minato",
+        "desc": "Ropa Alegre",
+        "precio": 15.49,
+        "img": "m_ropalegre.jpg",
+        "info": "novedad"
+    },
+    {
+        "id": 4,
+        "title": "Sudaderas Minato",
+        "desc": "Sudaderas de Distintos Colores",
+        "precio": 9.99,
+        "img": "m_sudaderas.jpg",
+        "info": "novedad"
+    },
+    {
+        "id": 5,
+        "title": "Converse Red",
+        "desc": "Zapatillas Converse Color Rojo",
+        "precio": 120,
+        "img": "m_conversered.jpg",
+        "info": "promo",
+        "pdesc": 50
+    },
+    {
+        "id": 6,
+        "title": "Conjunto BWQ",
+        "desc": "Conjunto de Ropa Formal Hombres",
+        "precio": 59.99,
+        "img": "m_bwq.jpg",
+        "info": "promo",
+        "pdesc": 25
+    },
+    {
+        "id": 7,
+        "title": "Camiseta Minato Azul Claro",
+        "desc": "Camiseta Minato de Color Azul Claro",
+        "precio": 12.99,
+        "img": "m_camisetaazul.jpg",
+        "info": "promo",
+        "pdesc": 15
+    },
+    {
+        "id": 8,
+        "title": "Zapatillas NCOLOR-M",
+        "desc": "Zapatillas Colorias Edicion NCOLOR-M",
+        "precio": 159.99,
+        "img": "m_ncolorm.jpg",
+        "info": "promo",
+        "pdesc": 30
+    }
+
+
+]
