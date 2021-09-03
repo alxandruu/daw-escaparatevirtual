@@ -14,5 +14,5 @@ En esta versión esta diseñado:
 
 Credenciales para iniciar sesión en la aplicación:
   - E-mail: demo@gmail.com
-  - Pass: Hola1,
+  - Pass: Hola1
   
