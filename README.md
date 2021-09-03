@@ -13,6 +13,6 @@ En esta versión esta diseñado:
   de todos los precios de los productos. El IVA se calcula automaticamente.
 
 Credenciales para iniciar sesión en la aplicación:
-  E-mail: demo@gmail.com
-  Pass: Hola1,
+  - E-mail: demo@gmail.com
+  - Pass: Hola1,
   
