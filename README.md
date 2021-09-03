@@ -11,4 +11,8 @@ En esta versión esta diseñado:
   - Busqueda por voz. Solo autocompleta el campo de Busqueda.
   - Página del carrito. Muestra los distintos productos añadidos al carrito. El total de la compra se autocompleta con la suma
   de todos los precios de los productos. El IVA se calcula automaticamente.
+
+Credenciales para iniciar sesión en la aplicación:
+  E-mail: demo@gmail.com
+  Pass: Hola1,
   
