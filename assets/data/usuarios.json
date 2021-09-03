@@ -1,14 +1,14 @@
 [{
         "id": 1,
-        "mail": "balex@gmail.com",
+        "mail": "demo@gmail.com",
         "pass": "Hola1",
-        "name": "Alex"
+        "name": "Demo 1"
     },
 
     {
         "id": 2,
-        "mail": "nsrvk@outlook.com",
-        "pass": "Nr01",
-        "name": "Nasara"
+        "mail": "demo2@outlook.com",
+        "pass": "Hola2",
+        "name": "Demo 2"
     }
 ]
